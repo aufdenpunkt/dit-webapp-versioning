@@ -8,6 +8,8 @@ setup(
     author="Christian Schweinhardt",
     author_email="are.u.kidding@me.com",
     license="unlicense",
-    packages=["versioning"],
     zip_safe=False,
+    packages=["versioning"],
+    package_data={"versioning": ["versioning/*"]},
+    include_package_data=True,
 )
