@@ -1,0 +1,3 @@
+.change-list input[type='submit'][name='_save'] {
+  display: none;
+}

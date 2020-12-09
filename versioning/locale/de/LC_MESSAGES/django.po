@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-26 08:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "e.g. 1.0.0"
+msgstr "z.B. 1.0.0"
+
+msgid "Invalid format. Format must be [0-9].[0-9].[0-9]. (e.g. 1.0.0)"
+msgstr ""
+"Ungültiges Format. Das Format muss [0-9].[0-9].[0-9] entsprechen. (z.B. "
+"1.0.0)"
+
+msgid "In stores?"
+msgstr "In Stores?"
+
+msgid "Is this the currently available Web-App version in stores?"
+msgstr "Ist dies die aktuell verfügbare Web-App Version in den Stores?"
+
+msgid "Web-App Version"
+msgstr "Web-App Version"
+
+msgid "Web-App Versions"
+msgstr "Web-App Versionen"
+
+msgid "Current Web-App version:"
+msgstr "Aktuelle Web-App Version:"
