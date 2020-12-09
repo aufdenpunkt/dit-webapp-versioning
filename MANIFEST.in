@@ -1,0 +1,2 @@
+recursive-include versioning/static *
+recursive-include versioning/templates *

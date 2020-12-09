@@ -32,8 +32,6 @@ class WebAppVersionAdmin(admin.ModelAdmin):
         "in_stores",
     ]
 
-    change_list_template = "admin/versioning/version/change_list.html"
-
     def changelist_view(
         self, request: HttpRequest, extra_context: Optional[Dict[str, str]] = None
     ) -> TemplateResponse:
